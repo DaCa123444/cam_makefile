@@ -1,4 +1,3 @@
-# cam_makefile
 
 1. compiler needs all header file.
 
