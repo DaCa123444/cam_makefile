@@ -43,3 +43,9 @@ clean:
 	rm -f $(OBJS) $(DEPS) $(TARGET)
 
 -include $(DEPS)
+
+
+
+
+#https://80000coding.oopy.io/1c295f7b-cfbc-41df-8e8a-23a66f6266d3
+#https://modoocode.com/311
